@@ -55,9 +55,9 @@ public class OtoKadai06  {
 			oto2.sleep();
 			oto2.sleep();
 			oto2.sleep();
-			oto2.sleep();
 			
 			oto2.lightYellow();
+			oto2.sleep();
 			oto2.sleep();
 			oto2.sleep();
 			
